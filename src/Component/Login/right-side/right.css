@@ -1,0 +1,25 @@
+.right-side {
+    margin: 6rem 2rem 6rem 9rem;
+    box-shadow: 0.5rem 0.5rem 4rem -0.5rem rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#icon {
+    height: 80%;
+    width: 60%;
+    margin: 3rem 0rem 4rem -3rem;
+    object-fit: cover;
+}
+
+.text {
+    float: center;
+    margin-left: 2rem;
+    margin-top: 6rem;
+    color: #0c0238e0;
+    text-indent: 55px;
+    text-align: justify;
+    letter-spacing: 5px;
+}

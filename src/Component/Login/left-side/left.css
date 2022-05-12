@@ -1,0 +1,66 @@
+.left-side {
+    margin: -2rem 3rem -2rem 1rem;
+    box-shadow: 0.5rem 0.5rem 4rem -0.5rem rgb(0, 0, 0);
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input {
+    display: block;
+    outline: none;
+    border: none;
+    height: 2rem;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 1.5rem;
+    padding: 0.2rem 1rem;
+    transition: all 0.3 ease;
+}
+
+input:focus {
+    color: #0c0238e0;
+    outline: none;
+    border: none;
+}
+
+input:hover {
+    box-shadow: 0.5px 0.5px 6px -1px #0c0238e0;
+    transform: translateY(-5px);
+}
+
+label {
+    display: block;
+    width: 78%;
+    text-align: left;
+    margin: auto;
+    font-size: small;
+    color: rgb(34, 34, 34);
+    margin-bottom: 0.5rem;
+}
+
+#bttn {
+    width: 40%;
+    background-color: #0c0238e0;
+    color: rgb(255, 255, 255);
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border-radius: 0.2rem;
+    transition: all 0.3 ease;
+    position: relative;
+    right: -30%;
+}
+
+#bttn:hover {
+    box-shadow: 0.5px 0.5px 6px -1px rgb(51, 51, 51);
+    transform: translateY(-5px);
+}
+
+.img {
+    position: relative;
+    left: 35%;
+    padding-top: -1rem;
+}

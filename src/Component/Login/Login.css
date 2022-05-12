@@ -1,0 +1,23 @@
+.main-login {
+    min-height: 50vh;
+    min-width: 90vw;
+    overflow-x: hidden;
+    background: linear-gradient(to right, #f6f4ff 50%, #0c0238e0 50%);
+}
+
+.login-Contain {
+    height: 80vh;
+    width: 69%;
+    background: linear-gradient(to right bottom, rgba(252, 248, 248, 0.7), rgb(236, 236, 236, 0.4));
+    border-radius: 1rem;
+    margin: 4rem auto;
+    box-shadow: 0.5rem 0.5rem 2rem -1rem rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer {
+    justify-content: center;
+    text-align: center;
+}
