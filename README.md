@@ -1,3 +1,16 @@
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+L’application web a pour objectif de fournir à chaque service sa propre interface afin que l’administrateur puisse effectuer ces différentes tâches facilement en utilisant
+l’application , cette dernière permet d’offrir les fonctionnalités suivantes :
+    - Gestion des utilisateurs .
+    - Gestion des équipements .
+    - Gestion des documents de processus de maintenance .
+la réalisation du projet, en suivant une méthode itérative et incrémentale, constituée des étapes suivantes : la création de la base de données en phpMyAdmin avec une base de
+données MYSQL , le maquettage des pages web et formulaire en BOOTSTRAP, HTML, CSS ,Ajax et Framework React JS, le développement des fonctionnalités de l'application en se
+basant sur PHP.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
